@@ -1,0 +1,2 @@
+# binarynex-deployed
+binarynex.com
